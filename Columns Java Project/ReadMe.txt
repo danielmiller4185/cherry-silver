@@ -1,6 +1,4 @@
 Daniel Miller
-Ari Rappaport
-CS251
 Columns Game: ReadMe
 
 Game Play
